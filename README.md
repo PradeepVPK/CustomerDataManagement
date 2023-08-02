@@ -4,12 +4,8 @@ Sunbase API Integration
 This project demonstrates the integration of Sunbase APIs for managing customer data. The APIs provided allow  to authenticate users, create, read, update, and delete customer records. Below are the details of each API and the required parameters.
 
 # Output
-
-[Login Page](LoginPage.png)
-[Customer List Page](CustomerList.png)
-[Customer Creation Page](CreationPage.png)
-[Customer Updation Page](UpdationPage.png)
-[Demo Video](https://drive.google.com/file/d/12rF6JhMS0lmLPustuB3WFd0vlcRFu6Nl/view?usp=drivesdk)
+You can view my project output demo here.
+[Demo video](https://drive.google.com/file/d/12rF6JhMS0lmLPustuB3WFd0vlcRFu6Nl/view?usp=drivesdk)
 
 ### 1\. Authenticate User
 

@@ -32,8 +32,6 @@ Create a new customer by providing the required customer details.
 -   Method: POST
 -   Parameters:
 
-    luaCopy code
-
     `cmd: create`
 
 -   Header:
